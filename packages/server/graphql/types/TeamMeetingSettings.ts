@@ -6,6 +6,7 @@ import NewMeetingPhaseTypeEnum from './NewMeetingPhaseTypeEnum'
 import PokerMeetingSettings from './PokerMeetingSettings'
 import RetrospectiveMeetingSettings from './RetrospectiveMeetingSettings'
 import Team from './Team'
+import PokerMeetingSettings from './PokerMeetingSettings'
 
 export const teamMeetingSettingsFields = () => ({
   id: {
